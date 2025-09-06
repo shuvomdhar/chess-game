@@ -2,7 +2,7 @@
 
 A modern, responsive chess web application with AI gameplay and stunning animations.
 
-![Chess Game Screenshot]("D:\vs-codes\Chess Game\chess-game\image.png")
+![Chess Game Screenshot](image.png)
 
 ## ✨ Features
 
