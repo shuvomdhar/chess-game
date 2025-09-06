@@ -2,7 +2,7 @@
 
 A modern, responsive chess web application with AI gameplay and stunning animations.
 
-![Chess Game Screenshot](image.png)
+![Chess Game Screenshot](image-1.png)
 
 ## ✨ Features
 
