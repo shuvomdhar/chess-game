@@ -2,6 +2,8 @@
 
 A modern, responsive chess web application with AI gameplay and stunning animations.
 
+- View Project at [Chess Game](https://chess-game-m24m.onrender.com)
+
 ![Chess Game Screenshot](image.png)
 
 ## ✨ Features
